@@ -1,6 +1,7 @@
 import csv
 import mysql.connector
 
+# Some changes
 DATA_CONSTANTS = {
     'sets': {
         'table_params': '(set_num VARCHAR(255), name VARCHAR(255), year VARCHAR(255), theme_id VARCHAR(255), num_parts '
